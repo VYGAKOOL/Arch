@@ -1,0 +1,42 @@
+{
+  "port1": {
+    "ID": 1,
+    "latitude": 40.7128,
+    "longitude": -74.0060
+  },
+  "port2": {
+    "ID": 2,
+    "latitude": 34.0522,
+    "longitude": -118.2437
+  },
+  "ship1": {
+    "ID": 1,
+    "fuel": 100,
+    "currentPort": 1,
+    "totalWeightCapacity": 2000,
+    "maxNumberOfAllContainers": 10,
+    "maxNumberOfHeavyContainers": 5,
+    "maxNumberOfRefrigeratedContainers": 2,
+    "maxNumberOfLiquidContainers": 3,
+    "fuelConsumptionPerKM": 0.1
+  },
+  "ship2": {
+    "ID": 2,
+    "fuel": 150,
+    "currentPort": 1,
+    "totalWeightCapacity": 2500,
+    "maxNumberOfAllContainers": 12,
+    "maxNumberOfHeavyContainers": 6,
+    "maxNumberOfRefrigeratedContainers": 3,
+    "maxNumberOfLiquidContainers": 4,
+    "fuelConsumptionPerKM": 0.15
+  },
+  "container1": {
+    "ID": 1,
+    "weight": 2500
+  },
+  "container2": {
+    "ID": 2,
+    "weight": 3500
+  }
+}
