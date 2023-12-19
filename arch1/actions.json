@@ -1,0 +1,8 @@
+[
+  { "type": "talk", "params": [0, 1, 30] },
+  { "type": "message", "params": [0, 1, 50] },
+  { "type": "connectToInternet", "params": [1, 100] },
+  { "type": "payBill", "params": [0, 50] },
+  { "type": "changeOperator", "params": [0, 0] },
+  { "type": "changeBillLimit", "params": [0, 150] }
+]
